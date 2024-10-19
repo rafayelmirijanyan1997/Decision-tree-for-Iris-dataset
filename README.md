@@ -4,7 +4,7 @@ Training decision tree to classify unseen flower data set
 
 # A Notebook to use Decision Tree Classifiers
 
-This notebook shows how to train a decision tree to classify unseen instances. This notebook uses the [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris), which is often used in calssification examples. The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician, eugenicist, and biologist Ronald Fisher in his 1936 paper.
+This notebook shows how to train a decision tree to classify unseen instances. This notebook uses the [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris). The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician, eugenicist, and biologist Ronald Fisher in his 1936 paper.
 
 
 ## Understanding the code
